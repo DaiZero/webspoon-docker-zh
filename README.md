@@ -1,5 +1,5 @@
 # webspoon-docker-zh
-> 汉化版webspoon的docker镜像，带MySQL驱动
+> 汉化版[webspoon](https://github.com/HiromuHota/pentaho-kettle)的docker镜像，带MySQL驱动
 
 ## 拉取
 ```bash
